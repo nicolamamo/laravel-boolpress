@@ -1,13 +1,11 @@
 @extends('layouts.dashboard')
 
 @section('content')
-<div class="container">
-    <div class="row">
-        <div class="col-12">
-            <h1>hai fatto log-in</h1>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <h1>Hai fatto il login nella dashboard</h1>
+            </div>
         </div>
-
     </div>
-
-</div>
 @endsection
